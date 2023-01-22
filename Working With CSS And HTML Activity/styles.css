@@ -1,0 +1,60 @@
+h1 {
+  color: #0170FF
+}
+
+a {
+  color:#FF0101
+}
+
+li {
+  /* Padding should be 10px for the top & bottom, and 20px for the right & left */
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-right: 20px;
+  padding-left: 20px;
+/* Have a left border of 5px and a color of #005cfc for the inactive and #01e4ff as the active color */
+  border-left: 5px solid;
+  border-left-color: #005cfc;
+/* Background color of #f1f1f1 */
+  background-color: #f1f1f1;
+/* Remove the default list-style-type */
+  list-style-type: none;
+  /* margin: 0;
+  padding: 0; */
+  
+}
+
+.content {
+  /* Padding should be 20px */
+  padding: 20px;
+  /* Margin should be 10px */
+  margin: 10px;
+  /* Text should be italic. */
+  font-style: italic;
+  /* The background color should be #424EDC*/
+  background-color: #424EDC;
+  /*The text color should be #ffffff*/
+  color: #ffffff
+
+  
+}
+
+.active {
+  /* border-left-color:  ; */
+  border-left: 5px solid #01e4ff;
+
+}
+
+.footer {
+  /* The text should be centered */
+  /* font-style: center; */
+  text-align: center;
+  /* Padding should be 20px */
+  padding: 20px;
+  /* Margin should be 10px */
+  margin: 10px;
+  /* The background color should be #424EDC */
+  background-color: #424EDC;
+  /* The text color should be #ffffff */
+  color: #ffffff;
+}
