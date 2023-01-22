@@ -1,41 +1,19 @@
-Styles and Bootstrap
-
-Styles and Bootstrap, you will learn about the building blocks of CSS and the best ways to organize your CSS, HTML, 
-and JavaScript code as you build web pages. You’ll familiarize yourself with the functionality of Bootstrap, a popular styles framework. 
-Finally, you’ll use JavaScript to apply styles programmatically to create dynamic web pages.
-
-![image](https://user-images.githubusercontent.com/105542222/213896109-466cb295-f179-422d-b2a3-44db17f3971b.png)
-Course Learning Outcomes Addressed
-
-Explain the key web programming concepts
-Build web applications using JavaScript, HTML, and CSS
-Design and code user interactions on web pages
-Design and implement UI components for web applications
-
-![image](https://user-images.githubusercontent.com/105542222/213896118-56f50d71-bc10-4f9c-acf8-4fa364e53a2f.png)
-By the end of this module, you will be able to:
-Apply styles to HTML code
-Explain how CSS, HTML, and JavaScript work together to create web pages
-Discuss CSS style guide and examples of programmatic styling 
-Apply CSS styles to create web page layouts
-Use JavaScript to set web page styles
+![image](https://user-images.githubusercontent.com/105542222/213897037-2fc0a7d7-073e-467f-b1eb-8630758aa03f.png)
+Learning Outcome Addressed
+ 5. Use JavaScript to set web page styles
 
 
-Coding Activities
-* Working with CSS and HTML Activity
-* Using the CSS Grid Layout Activity
-* Styling A Dynamic Grid Using JavaScript Activity
+Eye Movement Exercise
 
-Coding Assignments
-* Eye Movement Assignment
+Follow Mouse Movement
+In JavaScript, events are actions that happen on a web page. They can be anything from a mouse moving to a user typing in some text. Events happen to most elements on the DOM. These events are a good way to bind a code to user actions. For example, consider a web page that has a form with a "Submit" button. You can bind the mouse button click to that button and submit the form data upon that click.
 
+Mouse events are a popular way to bind the DOM elements to events. Some of these events are as follows:
 
-Self-study activities
+click: Triggered when the mouse is clicked
+mousemove: Triggered when the mouse moves over an element
+mouseleave: Triggered when mouse the leaves an element
+In the starter code for this activity, the mouse movement event is used to update the position of the "eye" element displayed on the page. You can walk through the code to see how this all works.
 
-* Applying Styles Programmatically
-* Using Timers and Styles
-* Styling the Grid Programmatically
-* Animated Style Application
-* Bringing It All Together
-* Eye Movement Exercise
+You task is to add a second "eye" element and have that element follow the mouse position on the screen using the mouse events.
 
