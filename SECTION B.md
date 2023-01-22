@@ -29,3 +29,52 @@ Did your peers call out an interesting difference between JavaScript and CSS sta
 
 (2)
 
+![image](https://user-images.githubusercontent.com/105542222/213897103-dde37832-ad59-44c6-95c4-d5b09f9fb0b0.png)
+Reflecting On JavaScript And CSS 
+![image](https://user-images.githubusercontent.com/105542222/213897107-88950424-812e-4103-a8b3-02f315914775.png)
+
+Discuss CSS style guide and examples of programmatic styling
+
+As you applied styles dynamically with JavaScript, you saw the CSS change automatically based on some kind of input. In the exercises this week, the CSS changed dynamically according to a timer, programmed with the JavaScript setTimeout and clearTimeout functions.  
+
+Instructions:
+
+It’s time for you to find examples of websites that employ this functionality. Respond to the following prompts below: 
+
+Visit one of your favorite websites and share the link below. Describe a few of the dynamic changes you see and the functions that might control them. 
+Find a website that doesn’t use programmatic styling. What would you add?
+Submission Instructions:
+
+ 
+
+Word count: 50-100
+Did you learn something from your peers’ posts? Reply to them to continue the conversation.
+
+(3)
+Q & A Discussion With Learning Facilitators
+Do you have specific questions about a coding assignment? Did you encounter a bug that you are struggling to troubleshoot? This forum is the space to ask questions related to this module’s assignments and video content. It will be moderated by your Learning Facilitator.
+
+Learning how to accurately describe problems that you encounter is a crucial skill for any software developer. If you can provide accurate information about the issue you’re facing, you will be more likely to receive meaningful answers to your questions.
+
+Submission Instructions:
+
+Follow these best practices when posting about a challenge to this discussion forum: 
+
+Describe what you expect to happen.
+Describe what is happening instead.
+Provide detailed steps on how to reproduce what you have already done. 
+Attach screenshots or code snippets of all relevant files.
+As an example:
+
+I am trying to display a picture of myself for my GitHub portfolio website. My picture should appear below my name when I open the website. 
+Instead of seeing my picture, I see a broken image. 
+To reproduce my work, I created an index.html with an <h1> tag containing my name and an <img> tag with my photo’s file name. I uploaded these files to GitHub.
+
+ 
+ ![image](https://user-images.githubusercontent.com/105542222/213897123-65e69730-4c42-4689-864b-8a76520981b8.png)
+ 
+ Notice that the participant included the entire folder contents in the screenshot in this example. This will help Learning Facilitators or other participants diagnose the error.
+
+You are encouraged to reply to your fellow learners to continue the conversation.
+
+
